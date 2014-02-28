@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Wrike",
+  "description": "Wrike App Launcher",
+  "author": "Naoufal Kadhom",
+  "version": "0.1",
+  "app": {
+    "urls": [
+      "https://www.wrike.com/workspace.htm"
+    ],
+    "launch": {
+      "web_url": "https://www.wrike.com/workspace.htm"
+    }
+  },
+  "background": {
+    "persistent": false
+  },
+  "icons": { "16": "wrike-16.png", "128": "wrike-128.png" }
+}

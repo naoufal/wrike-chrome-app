@@ -3,13 +3,13 @@
   "name": "Wrike",
   "description": "Wrike App Launcher",
   "author": "Naoufal Kadhom",
-  "version": "0.1",
+  "version": "1.0",
   "app": {
     "urls": [
-      "https://www.wrike.com/workspace.htm"
+      "http://www.naoufal.com/wrike-chrome-app"
     ],
     "launch": {
-      "web_url": "https://www.wrike.com/workspace.htm"
+      "web_url": "http://www.naoufal.com/wrike-chrome-app"
     }
   },
   "background": {

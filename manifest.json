@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "Wrike",
+  "name": "Wrike Launcher",
   "description": "Wrike App Launcher",
   "author": "Naoufal Kadhom",
-  "version": "1.0",
+  "version": "1.0.1",
   "app": {
     "urls": [
       "http://www.naoufal.com/wrike-chrome-app"
